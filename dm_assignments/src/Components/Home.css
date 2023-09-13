@@ -1,0 +1,17 @@
+body{
+   
+  background-image: url("https://w0.peakpx.com/wallpaper/400/451/HD-wallpaper-plant-leaves-water-drops-dark-background-nature.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:white;
+}
+
+p{
+  color:white;
+}
+
+a{
+  color:white;
+}
